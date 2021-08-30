@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-buddy-generator/static/css/main.a617e044.chunk.css",
+    "main.js": "/react-buddy-generator/static/js/main.0cf95f40.chunk.js",
+    "main.js.map": "/react-buddy-generator/static/js/main.0cf95f40.chunk.js.map",
+    "runtime-main.js": "/react-buddy-generator/static/js/runtime-main.2cc62530.js",
+    "runtime-main.js.map": "/react-buddy-generator/static/js/runtime-main.2cc62530.js.map",
+    "static/js/2.51af6bff.chunk.js": "/react-buddy-generator/static/js/2.51af6bff.chunk.js",
+    "static/js/2.51af6bff.chunk.js.map": "/react-buddy-generator/static/js/2.51af6bff.chunk.js.map",
+    "static/js/3.3acf565e.chunk.js": "/react-buddy-generator/static/js/3.3acf565e.chunk.js",
+    "static/js/3.3acf565e.chunk.js.map": "/react-buddy-generator/static/js/3.3acf565e.chunk.js.map",
+    "index.html": "/react-buddy-generator/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/react-buddy-generator/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.51af6bff.chunk.js.LICENSE.txt": "/react-buddy-generator/static/js/2.51af6bff.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-buddy-generator/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cc62530.js",
+    "static/js/2.51af6bff.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.0cf95f40.chunk.js"
+  ]
+}
